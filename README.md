@@ -52,5 +52,10 @@ This project involves analyzing and cleaning the dataset provided by Swiggy. Swi
 - Establish relationships between tables using primary and foreign keys.
 - Create various visualizations to uncover trends and insights.
 
+  <img width="866" height="484" alt="Dashboard 1" src="https://github.com/user-attachments/assets/bc306d23-e331-4357-a2b7-8b2644bc2b2e" />
+<img width="759" height="425" alt="Dashboard3" src="https://github.com/user-attachments/assets/05154929-a943-4333-98d6-62e7a5cb23cb" />
+<img width="760" height="426" alt="Dashboard2" src="https://github.com/user-attachments/assets/1f56bde7-c10e-42d2-9b1b-cd6f037f332c" />
+
+
 ## 🔍 Insights
 - Found useful insights such as vegetarian options leading to 122 million in sales, 7.2% higher than non-vegetarian; the top 10% of customers accounting for 80% of sales; and Tirupati city recording the highest order amount at 43 million.
